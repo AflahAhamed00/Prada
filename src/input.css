@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bold
+{
+    font-family: Brilliant Cut, Almarai, Helvetica, Arial, sans-serif;
+}
+
+.header
+{
+    line-height: 3rem;
+    font-size: 14px;
+}
+.list
+{
+    line-height: 1.5rem;
+}
